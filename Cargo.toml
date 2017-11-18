@@ -1,0 +1,9 @@
+[package]
+name = "crypto-rust-w3"
+version = "0.1.0"
+authors = ["David Peklak <dpeklak@gmail.com>"]
+
+[dependencies]
+data-encoding = "1.2.0"
+error-chain = "0.11.0"
+rust-crypto = "^0.2"
